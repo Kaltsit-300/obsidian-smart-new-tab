@@ -1,0 +1,9 @@
+{
+  "id": "obsidian-smart-new-tab",
+  "name": "Smart New Tab",
+  "version": "1.0.0",
+  "minAppVersion": "0.15.0",
+  "description": "Smartly open newly created notes and link clicks in a new tab to preserve reading progress.",
+  "author": "Antigravity",
+  "isDesktopOnly": false
+}
